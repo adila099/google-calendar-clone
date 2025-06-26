@@ -8,6 +8,7 @@ https://google-calendar-clone-pi.vercel.app
 
 # 1. Clone the repo
 git clone https://github.com/adila099/google-calendar-clone.git
+
 cd google-calendar-clone
 
 # 2. Install dependencies

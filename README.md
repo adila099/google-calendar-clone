@@ -2,7 +2,7 @@ Google Calendar Clone
 A responsive and functional calendar application inspired by Google Calendar.
 
 # 🔗 Demo
-google-calendar-clone-pi.vercel.app
+https://google-calendar-clone-pi.vercel.app
 
 # 🚀 Setup & Run Instructions
 
